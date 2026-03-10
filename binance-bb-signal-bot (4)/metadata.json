@@ -1,0 +1,5 @@
+{
+  "name": "Binance BB Signal Bot",
+  "description": "A crypto signal bot that scans all Binance USDT pairs for Bollinger Band crosses on H1 and M15 timeframes.",
+  "requestFramePermissions": []
+}
